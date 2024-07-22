@@ -1,4 +1,5 @@
 nginx
+rabbitmq
 redis
 mysql:5.7
 zookeeper
