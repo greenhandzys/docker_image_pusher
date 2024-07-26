@@ -4,4 +4,4 @@ redis
 mysql:5.7
 zookeeper
 tomcat:8.5-jdk8-corretto-al2
-elasticsearch
+elasticsearch:7.17.21
