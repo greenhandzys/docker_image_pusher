@@ -4,3 +4,4 @@ redis
 mysql:5.7
 zookeeper
 tomcat:8.5-jdk8-corretto-al2
+xxl-job-admin:2.3.1
