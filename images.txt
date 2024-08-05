@@ -5,3 +5,4 @@ mysql:5.7
 zookeeper
 tomcat:8.5-jdk8-corretto-al2
 elasticsearch:7.17.21
+kibana:7.10.2
