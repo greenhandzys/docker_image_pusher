@@ -6,3 +6,4 @@ zookeeper
 tomcat:8.5-jdk8-corretto-al2
 elasticsearch:7.17.21
 docker.elastic.co/kibana/kibana:7.10.2
+openjdk:8-jdk-alpine
